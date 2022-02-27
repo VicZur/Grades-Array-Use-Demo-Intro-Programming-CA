@@ -1,0 +1,7 @@
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Grades-Array-Use-Demo\Grades-Array-Use-Demo\obj\Debug\Grades-Array-Use-Demo.csprojAssemblyReference.cache
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Grades-Array-Use-Demo\Grades-Array-Use-Demo\obj\Debug\Grades-Array-Use-Demo.csproj.CoreCompileInputs.cache
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Grades-Array-Use-Demo\Grades-Array-Use-Demo\bin\Debug\Grades-Array-Use-Demo.exe.config
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Grades-Array-Use-Demo\Grades-Array-Use-Demo\bin\Debug\Grades-Array-Use-Demo.exe
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Grades-Array-Use-Demo\Grades-Array-Use-Demo\bin\Debug\Grades-Array-Use-Demo.pdb
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Grades-Array-Use-Demo\Grades-Array-Use-Demo\obj\Debug\Grades-Array-Use-Demo.exe
+C:\Users\vczur\Documents\DBS\Programming\CA (GH)\Grades-Array-Use-Demo\Grades-Array-Use-Demo\obj\Debug\Grades-Array-Use-Demo.pdb
